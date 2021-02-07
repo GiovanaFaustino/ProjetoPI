@@ -4,7 +4,7 @@ session_start();
 
 $host = "localhost";
 $usuario = "root";
-$senha = "g88745059";
+$senha = "";
 $bd = "biblioteca";
 
 global $pdo;
