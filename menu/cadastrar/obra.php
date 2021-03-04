@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="css/style.css">
 
-<h4 class="obrtitulo">Cadastrar Obra</h4>
+<h4 class="cattitulo">Cadastrar Obra</h4>
 
 <div class="obrborder">
     <form class="row g-3 obrform" action="menu\cadastrar\tratarDadosCadastro\dadosObraC.php" method="POST">

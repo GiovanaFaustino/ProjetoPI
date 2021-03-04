@@ -69,24 +69,14 @@ if(isset($_SESSION['iduser']) && !empty($_SESSION['iduser'])):?>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Empréstimo
-                </a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="index.php?pg=emprestimo/realizar">Realizar</a></li>
-                  <li><a class="dropdown-item" href="index.php?pg=emprestimo/renovar">Renovar</a></li>
-                  <li><a class="dropdown-item" href="index.php?pg=emprestimo/darbaixa">Dar Baixa</a></li>
-                </ul>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Consultar
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="index.php?pg=consultar/categoria">Categoria</a></li>
                     <li><a class="dropdown-item" href="index.php?pg=consultar/obra">Obra</a></li>
                     <li><a class="dropdown-item" href="index.php?pg=consultar/exemplar">Exemplar</a></li>
                     <li><a class="dropdown-item" href="index.php?pg=consultar/leitor">Leitor(a)</a></li>
                     <li><a class="dropdown-item" href="index.php?pg=consultar/bibliotecario">Bibliotecário(a)</a></li>
-                    <li><a class="dropdown-item" href="index.php?pg=consultar/emprestimo">Empréstimo</a></li>
                 </ul>
               </li>
             </ul>

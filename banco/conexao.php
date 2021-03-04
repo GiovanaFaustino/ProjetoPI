@@ -4,7 +4,7 @@ session_start();
 
 $host = "localhost";
 $usuario = "root";
-$senha = "";
+$senha = "g88745059";
 $bd = "biblioteca";
 
 global $pdo;
@@ -25,7 +25,7 @@ function getConnection(){
 
     $host = "localhost";
     $usuario = "root";
-    $senha = "g88745059";
+    $senha = "";
     $bd = "biblioteca";
 
     global $pdo;

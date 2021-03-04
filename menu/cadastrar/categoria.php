@@ -7,7 +7,7 @@
     <form class="row g-3 catform" action="menu\cadastrar\tratarDadosCadastro\dadosCategoriaC.php" method="POST">
     <div class="col-md-6">
         <label for="inputCod4" class="form-label">Código da Categoria</label>
-        <input type="text" name="codigoCategoria" class="form-control" id="inputCod4"placeholder="De categoria já existente">
+        <input type="text" name="codigoCategoria" class="form-control" id="inputCod4">
     </div>
     <div class="col-6">
         <label for="inputPrazo" class="form-label">Prazo Máximo de Entrega</label>

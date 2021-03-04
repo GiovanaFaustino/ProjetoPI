@@ -1,0 +1,33 @@
+.novatabelamenor{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.novatabela{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.novatabelaobra{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.novotitulo{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.novotituloremov{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 15px;
+}
+
+.novadivremov{
+    margin-top: -60px;
+    text-align: center;
+}

@@ -16,7 +16,7 @@
         <div class="card">
             <div class="card-top">
                 <img class="imgLogin" src="img/img_login.jpg" alt="">
-                <h2 class="title">Painel de Controle</h2>
+                <h2 class="title">Autenticação</h2>
             </div>
         
             <div class="card-group">

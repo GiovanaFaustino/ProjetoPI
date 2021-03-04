@@ -24,6 +24,7 @@ if (isset($_POST['ISBNExemplar']) && !empty($_POST['ISBNExemplar'])
     header("Location: ../dadosExemplarC.php");
 }
 
+
 header("Location: ../../../index.php");
 
 ?>

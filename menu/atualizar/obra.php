@@ -2,8 +2,8 @@
 
 
 <div class="atu_border">
-    <form class="d-flex" action="#" method="#">
-            <input class="form-control me-2" type="search" placeholder="Digite o ISBN do Livro" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit">Buscar</button>
+    <form class="d-flex" action="menu\atualizar\tratarDadosAtualizar\consultaObra.php" method="POST">
+            <input class="form-control me-2" type="search" name="pesquisaObra" placeholder="Digite o ISBN do Livro" aria-label="Search" required>
+            <button class="btn btn-outline-success" name="consultaObra" type="submit">Buscar</button>
     </form>
 </div>
